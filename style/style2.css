@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,10 +23,12 @@ body .r{
     transform: translate(50px,-50px);
 }
 .header{
-    width: 95%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     transform: translatey(-425px);
+    height: 200px;
+    width: 200px;
     
 }
 body .input input{
