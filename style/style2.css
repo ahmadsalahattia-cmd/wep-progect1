@@ -26,9 +26,10 @@ body .r{
     display: flex;
     justify-content: space-between;
     transform: translatey(-425px);
+}
+.header img{
     height: 200px;
     width: 200px;
-    
 }
 body .input input{
     border: 1px solid;
